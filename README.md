@@ -16,6 +16,10 @@ A simple and clean web-based Expense Tracker built using **HTML**, **CSS**, and 
 
 ## 📸 Preview
 
+![App Preview](images/screenshot.png)
+
+![App Preview](images/screenshot.png)
+
 ---
 
 ## ✨ Features
