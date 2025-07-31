@@ -16,9 +16,9 @@ A simple and clean web-based Expense Tracker built using **HTML**, **CSS**, and 
 
 ## 📸 Preview
 
-![App Preview](Screenshot 2025-07-31 151035.png)
+![App Preview](https://github.com/sneharajput0213/expense-tracker/blob/1713aa6a045cc0a7b0bfceed807ea436f70b42bc/Screenshot%202025-07-31%20151035.png)
 
-![App Preview](images/screenshot.png)
+![App Preview]()
 
 ---
 
